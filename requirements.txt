@@ -1,0 +1,4 @@
+transformers
+pytorch-lightning
+torchmetrics
+Pillow
